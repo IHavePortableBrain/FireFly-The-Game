@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.847,=C:\Users\админ\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,=C:\Users\админ\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.977,=C:\Users\админ\Desktop\Курсач\Model.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.535,=C:\Users\админ\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.956,=C:\Users\админ\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.006,C:\Users\админ\Desktop\Курсач\Unit1.pas=C:\Users\админ\Desktop\Курсач\Model.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.121,=C:\Users\админ\Desktop\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.280,C:\Users\админ\Desktop\Курсач\Unit1.pas=C:\Users\админ\Desktop\Курсач\ULeaderBoard.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.392,=C:\Users\админ\Desktop\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.425,C:\Users\админ\Desktop\Курсач\UMainMenu.pas=C:\Users\админ\Documents\Embarcadero\Studio\Projects\UMainMenu.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.791,=C:\Users\админ\Desktop\Курсач\Controller.inc</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.807,=C:\Users\админ\Desktop\Курсач\Support.inc</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.458,C:\Users\админ\Desktop\Курсач\View.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.377,C:\Users\админ\Desktop\Курсач\View.pas=C:\Users\админ\Desktop\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.899,C:\Users\админ\Desktop\Курсач\Support.inc=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.003,=C:\Users\админ\Desktop\Курсач\Support.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,C:\Users\админ\Desktop\Курсач\UPlayField.pas=C:\Users\админ\Documents\Embarcadero\Studio\Projects\UPlayField.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.040,C:\Users\админ\Desktop\Курсач\Model.inc=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.794,=C:\Users\админ\Desktop\Курсач\Model.inc</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.876,=C:\Users\админ\Desktop\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.520,=C:\Users\админ\Desktop\Курсач\bass.dll</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.342,C:\Users\админ\Documents\Embarcadero\Studio\Projects\UMainMenu.pas=C:\Users\админ\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.477,C:\Users\админ\Documents\Embarcadero\Studio\Projects\UPlayField.pas=C:\Users\админ\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.590,C:\Users\админ\Desktop\Курсач\bass.dll=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.989,=C:\Users\админ\Desktop\Курсач\Soundtrack.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.821,=C:\Users\админ\Desktop\Курсач\View.inc</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.342,C:\Users\админ\Documents\Embarcadero\Studio\Projects\UMainMenu.dfm=C:\Users\админ\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.122,C:\Users\админ\Desktop\Курсач\Soundtrack.txt=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.741,C:\Users\админ\Desktop\Курсач\FireFly.dproj=C:\Users\админ\Documents\Embarcadero\Studio\Projects\Project6.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.546,C:\Users\админ\Desktop\Курсач\Controller.pas=C:\Users\админ\Desktop\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.520,=C:\Users\админ\Desktop\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.280,C:\Users\админ\Desktop\Курсач\Unit1.dfm=C:\Users\админ\Desktop\Курсач\ULeaderBoard.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.963,=C:\Users\админ\Desktop\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.015,=C:\Users\админ\Desktop\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.477,C:\Users\админ\Documents\Embarcadero\Studio\Projects\UPlayField.dfm=C:\Users\админ\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.473,C:\Users\админ\Desktop\Курсач\Soundtrack\Soundtrack.rc=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.425,C:\Users\админ\Desktop\Курсач\UMainMenu.dfm=C:\Users\админ\Documents\Embarcadero\Studio\Projects\UMainMenu.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,C:\Users\админ\Desktop\Курсач\UPlayField.dfm=C:\Users\админ\Documents\Embarcadero\Studio\Projects\UPlayField.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.163,=C:\Users\админ\Desktop\Курсач\Soundtrack\Soundtrack.rc</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ULeaderBoard.pas"/>
+    <File Path="ULeaderBoard.dfm"/>
+    <File Path="UMainMenu.pas"/>
+    <File Path="UMainMenu.dfm"/>
+    <File Path="UPlayField.pas"/>
+    <File Path="UPlayField.dfm"/>
+    <File Path="Controller.inc"/>
+    <File Path="View.inc"/>
+    <File Path="Model.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
